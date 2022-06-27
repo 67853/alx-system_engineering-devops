@@ -1,1 +1,1 @@
-digits only
+symbolic link
